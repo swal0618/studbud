@@ -1,0 +1,24 @@
+{
+  "name": "studbud",
+  "version": "1.0.0",
+  "description": "Study Buddy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swal0618/studbud.git"
+  },
+  "keywords": [
+    "study",
+    "buddy",
+    "studbud"
+  ],
+  "author": "Seb Walden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swal0618/studbud/issues"
+  },
+  "homepage": "https://github.com/swal0618/studbud#readme"
+}
